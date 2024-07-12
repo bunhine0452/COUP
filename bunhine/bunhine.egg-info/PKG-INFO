@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: bunhine
+Version: 0.1
+Summary: 편리한 파이썬 개인 모듈, 데이터 분석 라이브러리
+Home-page: https://your-url.com
+Author: Bunhine
+Author-email: hb000122@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
